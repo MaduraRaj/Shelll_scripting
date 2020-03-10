@@ -1,2 +1,2 @@
 # Shelll_scripting
-This repository contains some small shell scripting codes
+To write shell scripting its better if you use sublime text and it will give you a greate interface to work
